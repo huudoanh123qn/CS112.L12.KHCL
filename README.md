@@ -1,4 +1,4 @@
-# Class CS112.L12.KHCL - University of Information Technology, Vietnam National University - Ho Chi Minh City
+# Class CS112.L12.KHCL - University of Information Technology, VNU-HCMC
 ## Authors:
 1. Tô Viết Anh - 18520471
 2. Nguyễn Minh Châu - 18520519
